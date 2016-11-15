@@ -32,6 +32,7 @@ distclean: clean
 # Question 8
 
 #On ajoute dans le terminale la ligne suivante: LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/sasl/shared/main3/env/tools/lib
+#Si on veut que cela marche pour tous les terminal on ajoute export avant la variable
 
 # Question 9
-# On ajoute l'exécutable dans la variable d'environnement PATH avec la ligne suivante: 
+# On ajoute l'exécutable dans la variable d'environnement PATH avec la ligne suivante: PATH=$PATH:~/TP_solo/EnvDev/tp-solo-RenGeng/bin
